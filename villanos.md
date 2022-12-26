@@ -1,5 +1,6 @@
 # Villanos
 
-* Dr. Dead
-* Joker
-* Dr. Serrano
+* Dr. Doom
+* Red Skull
+* Kraken
+
